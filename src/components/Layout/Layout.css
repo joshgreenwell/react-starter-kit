@@ -185,3 +185,7 @@ textarea {
     page-break-after: avoid;
   }
 }
+
+.headerMargin {
+  margin-top: 10%;
+}
