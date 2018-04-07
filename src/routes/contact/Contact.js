@@ -83,7 +83,9 @@ class Contact extends React.Component {
                   <Grid item xs={3} />
                   <Grid item xs={5} />
                   <Grid item xs={2} center>
-                    <Button variant="raised" className={s.button}>Submit</Button>
+                    <Button variant="raised" className={s.button}>
+                      Submit
+                    </Button>
                   </Grid>
                   <Grid item xs={5} />
                 </Grid>

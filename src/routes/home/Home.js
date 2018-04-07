@@ -26,9 +26,7 @@ class Home extends React.Component {
   render() {
     return (
       <div className={s.root}>
-        <div className={s.container}>
-          Hi
-        </div>
+        <div className={s.container}>Hi</div>
       </div>
     );
   }
